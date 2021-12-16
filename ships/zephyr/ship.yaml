@@ -1,0 +1,9 @@
+author: "Max"
+name: "Zephyr-Class Light Strategic Command Carrier"
+description: "The Zephyr-class is a lightweight but nimble flagship carrier intended to support its fleet from the backlines using its complement of 3 interceptors and 5 fighter-bombers. Additionally, it features a light armament of 2 strategic missiles."
+tags:
+  - "flagship"
+  - "carrier"
+  - "strategic"
+version: 1.0
+game_version: 1.12
